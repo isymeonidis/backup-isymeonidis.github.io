@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>RISE</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.ri.se/en/person/iraklis-symeonidis'>RISE</a>. Digitalisation | Cybersecurity | Privacy Engineering | Innovation | Research Institutes of Sweden
 
 profile:
   align: right
