@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p><a href='https://www.ri.se/en/person/iraklis-symeonidis'>Research Institutes of Sweden</a></p>
+    <p><a href='https://www.ri.se/en'>Research Institutes of Sweden</a></p>
     <p>Isafjordsgatan 22, floor 6,</p>
     <p>16 440 Kista, Stockholm</p>
     <p>Sweden</p>
@@ -17,36 +17,30 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a research scientist at RISE Research Institutes of Sweden (website), located in Stockholm.
-I hold a Ph.D. from COSIC of KU Leuven, supervised by Prof. Bart Preneel.
+I am a research scientist at <a href='https://www.ri.se/en/person/iraklis-symeonidis'>RISE - Research Institutes of Sweden</a>.
 
-My research interests are in the intersection between cyber-secure and privacy-preserving systems. I focus on Security and privacy by design and default and designing protocols from transport up to the application/service layer considering cryptographic primitives.
+My research interests are related on designing protocols from transport up to the application/service layer utlizing cryptographic primitives.
 - Cyber-secure systems and threat analysis,
 - Data governance and privacy-preserving,
 - Secure architectures and networking,
 - Applied cryptography,
 - Decentralized systems and Smart Contracts.
 
-Scientific and industrial projects, including but not limited to:
+<!-- Scientific and industrial projects, including but not limited to:
 
 - IoT and Intelligent Transport Systems,
 - End-to-end encryption for private messaging,
-- Privacy infringes in Online Social Networks - the Cambridge Analytica Scandal on Facebook.
+- Privacy infringes in Online Social Networks - the Cambridge Analytica Scandal on Facebook. -->
 
-Previously, I was a post-doctoral researcher at NSS of KTH, SnT of the University of Luxembourg, and COSIC of KU Leuven. Furthermore, I hold an MS.c. in Digital Systems Security from the University of Piraeus and an engineering degree in Information and Communication Engineering from the University of the Aegean.
+I hold a Ph.D. from COSIC of KU Leuven, supervised by Prof. Bart Preneel. Previously, I was a post-doctoral researcher at NSS of KTH, SnT of the University of Luxembourg, and COSIC of KU Leuven. Furthermore, I hold an MS.c. in Digital Systems Security from the University of Piraeus and an engineering degree in Information and Communication Engineering from the University of the Aegean.
 
-Visiting address: 
-RISE - Research Institutes of Sweden, 
-Isafjordsgatan 22, 
-164 40, Kista-Stockholm, 
-Sweden
 
-Emails:
+<!-- Contact:
 - iraklis [dot] symeonidis  [at] ri [dot] se
 OpenPGP key: 
 
 - iraklis [dot] symeonidis  [at] icloud [dot] com
-OpenPGP key: AE2516026276DB98FC0E3DB261EC2740188F121E
+OpenPGP key: AE2516026276DB98FC0E3DB261EC2740188F121E -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
