@@ -13,8 +13,8 @@ profile:
     <p>16 440 Kista, Stockholm</p>
     <p>Sweden</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 I am a research scientist at <a href='https://www.ri.se/en/person/iraklis-symeonidis'>RISE - Research Institutes of Sweden</a>.
