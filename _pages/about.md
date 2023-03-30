@@ -17,7 +17,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a research scientist at <a href='https://www.ri.se/en/person/iraklis-symeonidis'>RISE - Research Institutes of Sweden</a>.
+I am a research scientist at <a href='https://www.ri.se/en/person/iraklis-symeonidis'>RISE</a>.
 
 My research interests are related on designing protocols from transport up to the application/service layer utlizing cryptographic primitives.
 - Cyber-secure systems and threat analysis,
@@ -34,6 +34,7 @@ My research interests are related on designing protocols from transport up to th
 
 I hold a Ph.D. from COSIC of KU Leuven, supervised by Prof. Bart Preneel. Previously, I was a post-doctoral researcher at NSS of KTH, SnT of the University of Luxembourg, and COSIC of KU Leuven. Furthermore, I hold an MS.c. in Digital Systems Security from the University of Piraeus and an engineering degree in Information and Communication Engineering from the University of the Aegean.
 
+Publications: <a href='https://scholar.google.com/citations?user=CMBbc_kAAAAJ&hl=en'>Google Scholar</a>
 
 <!-- Contact:
 - iraklis [dot] symeonidis  [at] ri [dot] se
