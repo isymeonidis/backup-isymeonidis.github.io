@@ -17,8 +17,6 @@ During my academic and professional carrier, I helped to manage, deliver, and wr
 
 
 Academic Service
-
-Submitted by isymeonidis on Wed, 01/05/2022 - 10:58
 Served/serving as a - TPC member, reviewer for:
 
 Journals:
@@ -54,18 +52,13 @@ CPDP 2020
 
 Awards and Media attention
 
-Submitted by isymeonidis on Wed, 01/05/2022 - 11:14
-Media attention:
-
 Our papers, "Collateral Damage by Facebook Applications: a Comprehensive Study" and "Collateral Damage of Facebook Apps: Friends, Providers, and Privacy Interdependence", appeared in NBC News (published: 21/03/2018, title: "Researchers say it was easy to take people's data from Facebook", author: Brandy Zadrozny) and in an article of France24 (last modification: 21/03/2018). AOL re-posted the article here.
  
 
 Awards:
-
 FWO short research visit grant: Research visit at CrySyS lab and Prof. Gergely Biczók, BME University, Budapest, Hungary, I obtained an FWO travel grant to study the interdependent privacy issues of third-party applications on Facebook.
 
-Certificates and training
-
+Certificates and training:
 Submitted by isymeonidis on Thu, 01/20/2022 - 07:28
 June 2015 - “International Course on Cyber Security and Cryptography”, COSIC@KU Leuven, Belgium. “Academic English and writing”, KU Leuven, Belgium.
 
@@ -85,9 +78,7 @@ Jan 2013 - “Intensive Programme on Information and Communication Systems Secur
 
 Sept. 2013 - “Modern pedagogical and teaching methods in education”, KPH Graz, Austria.
 
-Research visits / stays
-
-Submitted by isymeonidis on Wed, 01/05/2022 - 11:16
+Research visits / stays:
 Feb. 2020 - Research visit at COSIC@KULeuven:
 I initiated discussions with A. Madhusudan about secure V2X systems and privacy-preserving off-chain smart contract protocols. The collaboration resulted at a bilateral FNR INTER (SnT@University of Luxembourg) / FWO (COSIC@KU Leuven) project proposal submission
 
