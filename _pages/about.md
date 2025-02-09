@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Phd, MSC, ISO 27001  - Cybersecurity | Digitalisation | Privacy Engineering | Innovation | 
+subtitle: Phd, MSC, ISO 27001
 profile:
   align: right
   image: prof_pic.jpg
@@ -17,7 +17,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a research scientist at <a href='https://www.ri.se/en/person/iraklis-symeonidis'>RISE</a>.
+I am a senior scientist at <a href='https://www.ri.se/en/person/iraklis-symeonidis'>RISE</a>.
 
 My research interests are related on designing protocols from transport up to the application/service layer utlizing cryptographic primitives.
 - Cyber-secure systems and threat analysis,
