@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: Digitalisation | Cybersecurity | Privacy Engineering | Innovation | ISO 27001
+subtitle: Cybersecurity | Digitalisation | Privacy Engineering | Innovation | ISO 27001
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p><a href='https://www.ri.se/en'>Research Institutes of Sweden</a></p>
+    <p><a href='https://www.ri.se/en'>RISE Research Institutes of Sweden</a></p>
     <p>Isafjordsgatan 22, floor 6,</p>
     <p>16 440 Kista, Stockholm</p>
     <p>Sweden</p>
