@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Cybersecurity | Digitalisation | Privacy Engineering | Innovation | ISO 27001
+subtitle: PhD, Cybersecurity | Digitalisation | Privacy Engineering | Innovation | ISO 27001
 profile:
   align: right
   image: prof_pic.jpg
